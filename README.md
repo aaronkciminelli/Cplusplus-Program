@@ -13,7 +13,10 @@ I think I could enhance my code in the Python section. Doing this will not only 
 Which pieces of the code did you find most challenging to write, and how did you overcome this? What tools or resources are you adding to your support network?
 The most challenging piece to write was the histogram. I did not know what it was or what it meant, so I had to do some thorough research on how to code that particular section. 
 
-What skills from this project will be particularly transferable to other projects or course work?
-I think my reasearch and troubleshooting skills will be particularly trasnferable. 
-How did you make this program maintainable, readable, and adaptable?
-i made this program maintainable, readable, and adaptable by keeping the code clean and recycleable. I also added many comments that would allow me to read and understand my code if i were to come back and read it later. 
+## **What skills from this project will be particularly transferable to other projects or coursework?** 
+
+I think my research and troubleshooting skills will be particularly transferable. 
+
+## **How did you make this program maintainable, readable, and adaptable?** 
+
+I made this program maintainable, readable, and adaptable by keeping the code clean and recyclable. I also added many comments that would allow me to read and understand my code if I were to come back and read it later. 
